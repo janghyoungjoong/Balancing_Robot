@@ -6,9 +6,14 @@
 	밸런스 모델 찾기
 	
 
-
 2. software part 
+<<<<<<< HEAD
 	
+=======
+	25.03.19
+	소프트웨어 선택 
+STM CUBE IDE  C언어
+>>>>>>> balance_software
 
 
 3. hardware part 
