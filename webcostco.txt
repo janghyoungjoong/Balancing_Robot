@@ -2,10 +2,13 @@
 
 1. main 파트
 
+	2025.03.18
+	밸런스 모델 찾기
+	
 
 
 2. software part 
-
+	
 
 
 3. hardware part 
