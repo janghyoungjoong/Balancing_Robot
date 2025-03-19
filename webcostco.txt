@@ -3,9 +3,10 @@
 1. main 파트
 
 
-
 2. software part 
-
+	25.03.19
+	소프트웨어 선택 
+STM CUBE IDE  C언어
 
 
 3. hardware part 
